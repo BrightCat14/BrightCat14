@@ -27,7 +27,7 @@ welcome to my digital playground — where i code, experiment, and occasionally 
 ---
 
 ### 📊 github stats
-![akaruineko's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrightCat14)
+[![GitHub Streak](https://streak-stats.demolab.com?user=BrightCat14&theme=highcontrast&border_radius=20&mode=weekly)](https://git.io/streak-stats)
 
 ---
 
