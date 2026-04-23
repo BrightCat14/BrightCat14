@@ -1,4 +1,4 @@
-# hey there, i'm akaruineko!
+# hey there, i'm brightcat!
 
 welcome to my digital playground — where i code, experiment, and occasionally summon undefined behavior for fun.
 
@@ -6,8 +6,8 @@ welcome to my digital playground — where i code, experiment, and occasionally 
 
 ### about me
 
-- running **windows** because why not
-- coding in **vim** (for the soul) and **vscode** (for the sanity i have left)
+- running **void linux** because why not
+- coding in **vim** and **jetbrains ides**
 
 ---
 
