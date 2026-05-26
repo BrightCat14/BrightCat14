@@ -13,7 +13,7 @@ welcome to my digital playground — where i code, experiment, and occasionally 
 
 ### tech i mess with
 - **languages**: rust, python, c
-- **distros**: arch + void linux + windows
+- **distros**: arch linux + void linux + windows
 - **editors**: vim, vscode
 - **philosophy**: “if it compiles, it's a feature”
 
