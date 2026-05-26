@@ -6,14 +6,14 @@ welcome to my digital playground — where i code, experiment, and occasionally 
 
 ### about me
 
-- running **void linux** because why not
+- running **arch linux** because why not
 - coding in **vim** and **jetbrains ides**
 
 ---
 
 ### tech i mess with
 - **languages**: rust, python, c
-- **distros**: nixos + void linux + windows
+- **distros**: arch + void linux + windows
 - **editors**: vim, vscode
 - **philosophy**: “if it compiles, it's a feature”
 
