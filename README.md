@@ -31,5 +31,4 @@ welcome to my digital playground — where i code, experiment, and occasionally 
 ---
 
 ### 🔗 links
-- website: https://akaruineko.space
 - github: you're staring at it right now 😉
