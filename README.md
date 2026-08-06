@@ -6,14 +6,13 @@ welcome to my digital playground — where i code, experiment, and occasionally 
 
 ### about me
 
-- running **arch linux** because why not
-- coding in **vim** and **jetbrains ides**
+- running **debian linux** + **windows 11** because why not
+- coding in **vim** and **jetbrains IDEs**
 
 ---
 
 ### tech i mess with
 - **languages**: rust, python, c
-- **distros**: arch linux + void linux + windows
 - **editors**: vim, vscode
 - **philosophy**: “if it compiles, it's a feature”
 
